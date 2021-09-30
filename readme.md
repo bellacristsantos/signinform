@@ -1,4 +1,6 @@
-# Projeto Formulário de SignIn
+# Sign-in Form
+
+[See the project](https://bellacristsantos.github.io/signinform/)
 
 ![Projeto Preview](https://github.com/bellacristsantos/signinform/blob/master/assets/project-preview.png?raw=true)
 
@@ -9,13 +11,13 @@ Project made intending to practice concepts like the structure of the web form, 
 
 # :gear: Tools
 
-:white_circle:  HTML
-:white_circle:  CSS
+:white_circle:  HTML <br >
+:white_circle:  CSS <br >
 
 
 # :round_pushpin: Tags
 
-:white_medium_small_square: form
-:white_medium_small_square: div
-:white_medium_small_square: input
-:white_medium_small_square: label
+:white_medium_small_square: form <br >
+:white_medium_small_square: div <br >
+:white_medium_small_square: input <br >
+:white_medium_small_square: label <br >
